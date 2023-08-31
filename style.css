@@ -1,0 +1,38 @@
+body{
+    background-image: url('https://www.bhmpics.com/downloads/salesforce-backgrounds/41.0694s000001qohvqaq.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Top Nav */
+
+
+/* Card Header */
+.resume-name{
+    
+}
+
+.icon-box{
+    width: 45px;
+    height: 45px;
+}
+
+.white-bg{
+    background: #eee;
+    border-radius: 5px;
+}
+
+/* Left Pane */
+.accordion-item {
+    border: 0px;
+}
+
+.accordion-header {
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+}
+
+/* Right Pane */
+.cert-labels {
+    font-size: 12px;
+}
